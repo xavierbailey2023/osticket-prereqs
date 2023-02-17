@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4: Registering new PHP within the IIS
 - Item 5: Open osTicket installer from IIS
 - Item 6: Create a osTicket database in Heidi SQL
-- Item 7:
+- Item 7: Fill out all information in osTicket Installer
 - Item 8:
 
 <h2>Installation Steps</h2>
@@ -82,7 +82,7 @@ Lorem ipsum dolor s666666666666piscing elit, sed do eiusmod tempor incididunt ut
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gxnhJ3v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor s77777777777777777777 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
