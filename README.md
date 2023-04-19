@@ -53,7 +53,7 @@ I went to Windows control panel and went to Turn Windows features on or off.  Th
 <img src="https://i.imgur.com/NnbCqad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.333333m veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made a new folder on the computer hard drive named it PHP then I unzipped a folder that I downloaded into the new folder that I created on the virtual machines hard drive.  
 </p>
 <br />
 
