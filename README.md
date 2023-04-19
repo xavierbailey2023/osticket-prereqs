@@ -45,7 +45,7 @@ I made a windows 10 virtual machine so that I could install the OS Ticket softwa
 <img src="https://i.imgur.com/45FUDZv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ip222222sectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I went to Windows control panel and went to Turn Windows features on or off.  Then I added Internet Information Services and made sure that Application Development Services was also selected.  
 </p>
 <br />
 
