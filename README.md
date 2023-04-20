@@ -61,7 +61,7 @@ Made a new folder on the computer hard drive named it PHP then I unzipped a fold
 <img src="https://i.imgur.com/EXsZP42.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliq444444444 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Opened Internet Information services went to PHP Manager and registered the PHP so that I could enable different .dll items later.
 </p>
 <br />
 
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/HQoqUZa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco555555555x ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed and opened osTicket installer then went to PHP Manager and enabled php_imap.dll, php_intl.dll, and php_opcache.dll. 
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/ZEe9w6M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor s666666666666piscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installed and opened HeidiSQL and created a database for osTicket and created a database for osTicket so that I could complete the installation of osTicket.
 </p>
 <br />
 
@@ -85,14 +85,13 @@ Lorem ipsum dolor s666666666666piscing elit, sed do eiusmod tempor incididunt ut
 <img src="https://i.imgur.com/gxnhJ3v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor s77777777777777777777 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Filled out information in osTicket to create helpdesk admin and database setting for my created helpdesk.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/QU6jU4Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit a88888888888888888 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Completed osTicket and logged in as an admin and also Support Center domain where request can be sent to the helpdesk.
 </p>
 <br />
